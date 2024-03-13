@@ -1,0 +1,5 @@
+fifo/show
+fifo/*.o
+fifo/start
+fifo/.vscode
+sigaction/.vscode
